@@ -1,0 +1,6 @@
+{
+  "name": "AR Navigation",
+  "description": "Native Android AR walking navigation using Google Maps, Places, ARCore Geospatial API, and custom floating directional guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
